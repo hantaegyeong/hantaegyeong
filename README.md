@@ -21,7 +21,7 @@
 <br clear="both">
 
 ###
-<img align="right" height="150" src="https://imgur.com/gallery/frieren-jez76yX#LcZTYNB" />
 
+<img align="right" height="150" src="https://i.imgur.com/LcZTYNB.gif" alt="Frieren GIF" />
 
 ###
