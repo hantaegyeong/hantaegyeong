@@ -1,16 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=50)
 
-<!--
-**hantaegyeong/hantaegyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">👋 Hi there, I'm a Developer</div>
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&width=435&lines=Computer+Engineering+Student;Embedded+System+%26+Automotive+SW;AI+%26+Data+Science" alt="Typing SVG" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- 🎓 **Major**: Computer Engineering & Electronic Information Convergence
+- 🔭 **Interests**: Embedded Systems (STM32, ESP32), Automotive SW (CAN, DBC), AI (YOLO, NLP)
+- 🌱 **Learning**: Python, C/C++, PyTorch
+- 📫 **Contact**: [본인 이메일 주소 입력]
