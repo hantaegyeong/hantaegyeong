@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=한태경%20(Han%20Taegyeong)&fontSize=45)
-
+## Hi I'm Taegyeong 👋
 ###
 
 <div align="left">
