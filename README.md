@@ -1,20 +1,9 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=한태경%20(Han%20Taegyeong)&fontSize=45)
 
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-###
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hantaegyeong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantaegyeong&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ###
 
