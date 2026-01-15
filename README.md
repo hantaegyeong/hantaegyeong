@@ -20,7 +20,7 @@
 
 <div align="left">
   <a href="https://velog.io/@hantk906/posts">
-    <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-hantk906-20C997?style=flat&logo=velog&logoColor=white"/>
   </a>
 </div>
 <br clear="both">
