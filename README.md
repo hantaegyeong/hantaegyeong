@@ -9,6 +9,4 @@
 <br>
 
 - 🎓 **Major**: Computer Engineering & Electronic Information Convergence
-- 🔭 **Interests**: Embedded Systems (STM32, ESP32), Automotive SW (CAN, DBC), AI (YOLO, NLP)
-- 🌱 **Learning**: Python, C/C++, PyTorch
-- 📫 **Contact**: [본인 이메일 주소 입력]
+- 📫 **Contact**: [hantk906@kmu.kr]
