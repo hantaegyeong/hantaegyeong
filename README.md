@@ -3,8 +3,8 @@
 ###
 
 <div align="left">
-  <a href="mailto:hantk906@naver.com">
-    <img src="https://img.shields.io/badge/Email-hantk906@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
+  <a href="mailto:hantk906@kmu.k">
+    <img src="https://img.shields.io/badge/Email-hantk906@kmu.k-03C75A?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
