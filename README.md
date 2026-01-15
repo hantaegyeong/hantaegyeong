@@ -5,6 +5,8 @@
   <a href="mailto:hantk906@kmu.k">
     <img src="https://img.shields.io/badge/Email-hantk906@kmu.kr-007bff?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  
+  <img align="right" height="100" src="https://i.imgur.com/LcZTYNB.gif" alt="Frieren GIF" />
 </div>
 
 <div align="left">
