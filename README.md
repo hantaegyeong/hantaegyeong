@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=한태경%20(Han%20Taegyeong)&fontSize=45)
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
+<img width="560" height="314" alt="image" src="https://github.com/user-attachments/assets/129bc6be-e2b1-4351-9555-e60a88d78b3f" />![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=한태경%20(Han%20Taegyeong)&fontSize=45)
 
 ###
 
@@ -24,5 +19,9 @@
   </a>
 </div>
 <br clear="both">
+
+###
+<img align="right" height="150" src="https://imgur.com/gallery/frieren-jez76yX#LcZTYNB" />
+
 
 ###
