@@ -19,8 +19,8 @@
 </div>
 
 <div align="left">
-  <a href="https://hits.sh/github.com/hantaegyeong/">
-    <img src="https://hits.sh/github.com/hantaegyeong.svg?style=flat-square"/>
+  <a href="https://velog.io/@hantk906/posts">
+    <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white"/>
   </a>
 </div>
 <br clear="both">
