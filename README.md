@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인_깃허브_아이디&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hantk906&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="readme stats" />
 </div>
 
 ###
