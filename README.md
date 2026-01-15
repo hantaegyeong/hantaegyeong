@@ -2,7 +2,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:hantk906@kmu.k">
+  <a href="mailto:hantk906@kmu.kr">
     <img src="https://img.shields.io/badge/Email-hantk906@kmu.kr-007bff?style=flat&logo=gmail&logoColor=white"/>
   </a>
   
