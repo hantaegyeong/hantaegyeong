@@ -18,6 +18,11 @@
     <img src="https://img.shields.io/badge/Notion-hantk906-000000?style=flat&logo=notion&logoColor=white"/>  </a>
 </div>
 
+<div align="left">
+  <a href="https://hits.sh/github.com/hantaegyeong/">
+    <img src="https://hits.sh/github.com/hantaegyeong.svg?style=flat-square"/>
+  </a>
+</div>
 <br clear="both">
 
 ###
