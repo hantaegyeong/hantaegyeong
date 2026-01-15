@@ -1,13 +1,13 @@
 <h2 align="left">한태경 (Han Taegyeong)</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hantk906&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=hantk906@gmail.com&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   
-  <img src="https://github-profile-trophy.vercel.app?username=hantk906&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=hantk906@gmail.com&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hantk906&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hantk906@gmail.com&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="readme stats" />
 </div>
 
 ###
