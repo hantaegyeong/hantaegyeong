@@ -16,7 +16,7 @@
 
 <div align="left">
   <a href="https://taeg01.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-taeg01-orange?style=flat&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tistory-taeg01-orange?style=flat&logo=tistory&logoColor=white"/>
   </a>
 </div>
 <br clear="both">
